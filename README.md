@@ -3,12 +3,12 @@
 </div>
 <img src="https://media.licdn.com/dms/image/v2/D4D16AQHTaZP-Pxj7mQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738269312964?e=1744848000&v=beta&t=vAFSR6FBjDHsr2JgNJorBKAI9KABJ4QUQ8_i2waPdqk">
 
-# 💫 Sobre mí:
+## Sobre mí:
 <div align="center">
 Bienvenid@ a mi perfil de GitHub, soy Full Stack Developer con habilidades tanto en frontend como en backend. Apasionada del mundo de la programación, me encanta aplicar mi experiencia previa en el mundo del diseño al ámbito del desarrollo web. Siempre estudiando, siempre creando.
 </div>
 
-## 🌐 Socials: 
+## Redes: 
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/gabriella_bevilacqua_60523) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/gabriellabevilacqua) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bevi.gaby@gmail.com) 
 
 ## 🚀 Habilidades Técnicas:
