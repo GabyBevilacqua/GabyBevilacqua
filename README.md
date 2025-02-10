@@ -1,16 +1,26 @@
-## Hi there 👋
 
-<!--
-**GabyBevilacqua/GabyBevilacqua** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Full Stack Developer con habilidades tanto en frontend como en backend, incluyendo React, JavaScript, Python, Flask y MySQL. Apasionada del mundo de la programación, me encanta aplicar mi experiencia previa en el mundo del diseño al ámbito del desarrollo web.
 
-Here are some ideas to get you started:
+❇Como full stack developer:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+◼Lenguajes de programación:
+JavaScript, Python, Java.
+
+◼Desarrollo web:
+HTML5 / CSS3, Node.js, WordPress.
+
+◼Frameworks y librerias:
+Flask, React, Bootstrap, Tailwind.
+
+◼Control de versiones:
+GIT, GitHub.
+
+◼Base de datos y APIs:
+MySQL, APIs.
+
+◼Herramientas de desarrollo:
+Visual Studio Code, Eclipse, Slack.
+
+❇Como diseñadora:
+Photoshop, Figma , Illustrator, Publisher, KitchenDraw
+Modelado 3D, AutoCAD, Cinema4D y Blender.
