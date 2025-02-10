@@ -1,3 +1,8 @@
+<div align="center">
+<h1 align="center">Hola, soy <a href="https://www.linkedin.com/in/gabriellabevilacqua/">Gabriella Bevilacqua</a></h1>
+</div>
+<img src="https://media.licdn.com/dms/image/v2/D4D16AQHTaZP-Pxj7mQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738269312964?e=1744848000&v=beta&t=vAFSR6FBjDHsr2JgNJorBKAI9KABJ4QUQ8_i2waPdqk">
+
 # 💫 About Me:
 Full Stack Developer con habilidades tanto en frontend como en backend. Apasionada del mundo de la programación, me encanta aplicar mi experiencia previa en el mundo del diseño al ámbito del desarrollo web
 
