@@ -11,7 +11,7 @@
 </h2>
 
 <div align="center">
-Bienvenid@ a mi perfil de GitHub, soy Full Stack Developer con habilidades tanto en frontend como en backend. Apasionada del mundo de la programación, me encanta aplicar mi experiencia previa en el mundo del diseño al ámbito del desarrollo web. Siempre estudiando, siempre creando.
+Bienvenid@ a mi perfil de GitHub, soy Full Stack Developer con habilidades tanto en frontend como en backend. Apasionada por la programación, el diseño UI/UX y el desarrollo de aplicaciones web responsivas y escalables, me encanta aplicar mi experiencia previa en el mundo del diseño al ámbito del desarrollo web. Tengo habilidades sólidas en resolución de problemas, adaptabilidad y trabajo en equipo. </br> Siempre estudiando, siempre creando.
 </div>
 
 <h2 align="center">
