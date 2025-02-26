@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=200&size=17&duration=4000&pause=1000&color=008080&background=58E0FF00&center=true&multiline=true&random=false&width=435&lines=Hola%2C+soy+Gabriella+Bevilacqua;Bienvenid@+a+mi+mundo+de+programación" alt="Texto animado de bienvenida" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Open+Sans&weight=200&size=17&duration=4000&pause=1000&color=008080&background=58E0FF00&center=true&multiline=true&random=false&width=435&lines=Hola%2C+soy+Gabriella+Bevilacqua;Bienvenid@+a+este+pequeño+mundo+de+programación" alt="Texto animado de bienvenida" />
 </div>
 <img src="https://media.licdn.com/dms/image/v2/D4D16AQHTaZP-Pxj7mQ/profile-displaybackgroundimage-shrink_350_1400/profile-displaybackgroundimage-shrink_350_1400/0/1738269312964?e=1744848000&v=beta&t=vAFSR6FBjDHsr2JgNJorBKAI9KABJ4QUQ8_i2waPdqk">
 
